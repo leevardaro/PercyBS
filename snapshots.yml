@@ -1,12 +1,12 @@
 - name: homepage
-  url: https://www.browserstack.com/
+  url: https://k8s.bsstag.com/
   widths: [375, 480, 720, 1280, 1440, 1920]
 - name: pricing
-  url: https://www.browserstack.com/pricing
+  url: https://k8s.bsstag.com/pricing
   widths: [375, 480, 720, 1280, 1440, 1920]
 - name: automate
-  url: https://www.browserstack.com/integrations/automate
+  url: https://k8s.bsstag.com/integrations/automate
   widths: [375, 480, 720, 1280, 1440, 1920]
 - name: docs
-  url: https://www.browserstack.com/docs
+  url: https://k8s.bsstag.com/docs
   widths: [375, 480, 720, 1280, 1440, 1920]
